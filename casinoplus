@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Casino Plus</title>
+</head>
+<body>
+  <h1>Casino Plus</h1>
+    <body>
+        <iframe src="https://www.casinoplus.com.ph/home/signup/?partnerId=1000025444" id="mobile-iframe" allow="fullscreen" title="Casino Plus">
+    </iframe>
+</body>
+</html>
